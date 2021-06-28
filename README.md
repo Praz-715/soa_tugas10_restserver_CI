@@ -4,3 +4,6 @@ Check the recent version at https://github.com/chriskacerguis/codeigniter-restse
 Taruh di XAMPP/htdoc
 
 isntal sql
+
+jalankan 
+composer install
